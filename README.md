@@ -1,2 +1,3 @@
-# E-Commerce-WebApplication
-An E-Commerce Web-Application named GIKICart build with Python Django as backend tool. 
+GIKICart: E-commerce Web Application
+
+GIKICart is a full-stack e-commerce web application built with Python and Django for the backend. The frontend utilizes a Bootstrap template and leverages HTML, CSS, and JavaScript for a user-friendly interface. To run the application, clone this repository and execute py manage.py runserver within your terminal. This will launch the development server, allowing you to explore GIKICart in your web browser. To access the admin part, either create a superuser with "py manage.py createsuperuser" or login to http://127.0.0.1:8000/admin with the following credentials: Username: adeel Password adeel123.
